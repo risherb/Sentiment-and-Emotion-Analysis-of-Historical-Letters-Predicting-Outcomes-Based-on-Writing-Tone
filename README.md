@@ -24,7 +24,7 @@ Welcome to the **World War I Letters Sentiment Analysis** project! This reposito
   - NLTK / TextBlob / NRCLex
   - Matplotlib / Seaborn
   - Scikit-learn (for predictive models)
-- **Jupyter Notebooks** (for step-by-step analysis)
+- **Google Colab** (for step-by-step analysis)
 
 ---
 
