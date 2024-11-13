@@ -33,6 +33,5 @@ Welcome to the **World War I Letters Sentiment Analysis** project! This reposito
 Clone this repo to start exploring the project:
 
 ```bash
-git clone https://github.com/yourusername/WWI-Letters-Sentiment-Analysis.git
-cd WWI-Letters-Sentiment-Analysis
+git clone https://github.com/risherb/Sentiment-and-Emotion-Analysis-of-Historical-Letters-Predicting-Outcomes-Based-on-Writing-Tone.git
 
